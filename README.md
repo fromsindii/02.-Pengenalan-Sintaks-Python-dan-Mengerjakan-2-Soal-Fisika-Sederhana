@@ -1,4 +1,4 @@
-# tugas-ke-2---oprasi-perhitungan
+# tugas-ke-3---oprasi-perhitungan
 ''Rumus Fokus Lensa
     1/f = (n-1)[1/R1 + 1/R2]
 '''
